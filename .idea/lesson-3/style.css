@@ -1,0 +1,61 @@
+.box{
+    height: 300px;
+    width: 400px;
+}
+.A{
+    height: 100px;
+    width: 400px;
+    background: silver;
+}
+.big{
+    display: flex;
+    height: 200px;
+}
+.B{
+    background: #8f8c8c;
+    width: 300px;
+}
+
+.C{
+    background: #5d5c5c;
+    width: 100px;
+}
+.small{
+    background: black;
+    width: 300px;
+    height: 100px;
+    display: flex;
+}
+.mini{
+    display: flex;
+}
+.one{
+    background: wheat;
+    width:calc(100%/3);
+    height: 100px;
+}
+.two{
+    background: whitesmoke;
+    width:calc(100%/3);
+    height: 100px;
+}
+.three{
+    background: antiquewhite;
+    width:calc(100%/3);
+    height: 100px;
+}
+.first{
+    background: plum;
+    width:calc(100%/3);
+    height: 100px;
+}
+.second{
+    background:papayawhip;
+    width:calc(100%/3);
+    height: 100px;
+}
+.third{
+    background: lightpink;
+    width:calc(100%/3);
+    height: 100px;
+}
